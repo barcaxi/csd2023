@@ -14,4 +14,8 @@
 
 > Note: There may be some new JavaScript *things* you need to do to write your solutions.  Like any project/website there are always occasions when you must do some independent learning/discovery to write code solutions.  This mini website allows requires you to discover how to do new things.
 
+These topics will be helpful:
+-	[Web Stoarge API](https://www.w3schools.com/js/js_api_web_storage.asp)
+-	[Redirect a Webpage](https://www.w3schools.com/howto/howto_js_redirect_webpage.asp)
+
 If you have any questions ASK you lecturer.
