@@ -30,7 +30,7 @@ Check your ``htdocs`` folder.  You should have a new folder called ``data`` with
 	Average = 3
 	```
 
-	View it [here](http://localhost/csd2023/data/myForOF.html) when done
+	View it [here](http://localhost/data/myForOF.html) when done
 
 1.	In your `data` folder create a new program file `myForEach1.html` and `myForEach1.js` that uses a `forEach()` to print the following for the `numbers` array:
 
@@ -47,7 +47,7 @@ Check your ``htdocs`` folder.  You should have a new folder called ``data`` with
 	5 + 5 = 10
 	```
 
-	View [here](http://localhost/csd2023/data/myForEach1.html) when done
+	View [here](http://localhost/data/myForEach1.html) when done
 
 1.	In your `data` folder create a new program file `myForEach2.html` and `myForEach2.js` that uses a `forEach()` to print the following for the `numbers` array:
 
@@ -64,7 +64,7 @@ Check your ``htdocs`` folder.  You should have a new folder called ``data`` with
 	[5] 😀😀😀😀😀
 	```
 
-	View [here](http://localhost/csd2023/data/myForEach2.html) when done
+	View [here](http://localhost/data/myForEach2.html) when done
 
 
 ## Part 2 - `filter()`
